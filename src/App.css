@@ -1,0 +1,89 @@
+body {
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+  background: rgba(246, 150, 33, 0.05);
+  mix-blend-mode: normal;
+  border: 1px solid #979797;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.container-logo {
+  position: absolute;
+  top: 3.5%;
+  left: 45%;
+}
+
+.container-content {
+  position: absolute;
+  left: 13.5%;
+  top: 14.4%;
+  width: 73%;
+  height: 71%;
+  background: rgba(255, 255, 255, 0.9);
+  box-shadow: 0px 2px 50px rgba(210, 166, 96, 0.15);
+  border-radius: 8px;
+}
+
+.home-title {
+  /* position: absolute;
+  left: 23.5%;
+  top: 20%; */
+  border-top: 100px;
+  font-size: 36px;
+  line-height: 42px;
+  letter-spacing: 1px;
+  color: #4D4F5B;
+}
+
+.oval {
+  /* background: #f69621; */
+  font-size: 16px;
+  text-align: right;
+}
+
+.register-title {
+  margin-top: 2%;
+}
+
+.form-input-text {
+  width: 35%;
+  height: 4.3vh;
+  margin-top: 2vh;
+  margin-bottom: 2vh;
+  background: white;
+  border: 1px solid #f69621;
+  box-sizing: border-box;
+  border-radius: 8px;
+}
+
+.button {
+  width: 35%;
+  height: 4.3vh;
+  margin-top: 2vh;
+  background: #f69621;
+  box-shadow: 0px 10px 20px
+  rgba(246, 150, 33, 0.21);
+  color: white;
+}
+
+.table-row {
+  height: 7vh;
+}
+
+.del-icon {
+  width: 3vh;
+}
+
+#logo {
+  width: 48.49px;
+  height: 37.46px;
+}
+
+#company {
+  width: 93px;
+  height: 28px;
+}
